@@ -1,0 +1,15 @@
+C:\tony\fizzbuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\tony\fizzbuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\tony\fizzbuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\tony\fizzbuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+C:\tony\fizzbuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\tony\fizzbuzz\FizzBuzz\bin\Debug\net6.0\FizzBuzz.exe
+C:\tony\fizzbuzz\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+C:\tony\fizzbuzz\FizzBuzz\bin\Debug\net6.0\FizzBuzz.runtimeconfig.json
+C:\tony\fizzbuzz\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+C:\tony\fizzbuzz\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+C:\tony\fizzbuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+C:\tony\fizzbuzz\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+C:\tony\fizzbuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+C:\tony\fizzbuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.genruntimeconfig.cache
+C:\tony\fizzbuzz\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll
